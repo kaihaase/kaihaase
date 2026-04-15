@@ -1,23 +1,129 @@
-<h1 align="center">Hi, I'm Kai Haase</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
-
-- I’m currently working on **MindBox**
-
-- All of my projects are available at [https://github.com/lenneTech](https://github.com/lenneTech)
-
-- Ask me about **JavaScript, TypeScript, Angular, Node.js, NestJS, GraphQL, MongoDB**
-
-- How to reach me **kai.haase@lenne.tech**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> <img src="https://i.ibb.co/55txF2S/karma.png" alt="jasmine" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> <img src="https://i.ibb.co/dbgh2DH/jasmine.png" alt="karma" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://i.ibb.co/0MCw42Q/mocha.png" alt="mocha" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaihaase&layout=compact&hide=html" alt="kaihaase" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaihaase&show_icons=true" alt="kaihaase" /></p>
+<h1 align="center">Kai Haase</h1>
 
 <p align="center">
-<a href="https://twitter.com/lennetech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lennetech" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kai-haase" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kai-haase" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1607153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1607153" height="30" width="30" /></a>
-<a href="https://fb.com/lenne.tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lenne.tech" height="30" width="30" /></a>
+  <b>Founder & CEO of <a href="https://lenne.tech">lenne.Tech GmbH</a></b><br/>
+  Building modern web applications from the heart of the Sauerland — with passion, precision and a strong team.
 </p>
+
+<p align="center">
+  <a href="https://lenne.tech"><img src="https://img.shields.io/badge/Website-lenne.tech-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:kai.haase@lenne.tech"><img src="https://img.shields.io/badge/Email-kai.haase%40lenne.tech-ef4444?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/lenneTech"><img src="https://img.shields.io/badge/GitHub-lenneTech-181717?style=flat-square&logo=github&logoColor=white" alt="lenneTech on GitHub"/></a>
+  <img src="https://img.shields.io/badge/Location-Lennestadt,%20DE-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+---
+
+## About me
+
+I'm a full-stack developer, architect and entrepreneur with **15+ years of experience** turning ideas into reliable, maintainable software. In **2020** I founded **lenne.Tech GmbH** — a team of developers, consultants and designers that helps companies digitalize their business with custom solutions built to last.
+
+I enjoy owning a project end-to-end: from the first whiteboard sketch and technical concept, through architecture and implementation, all the way to launch and long-term evolution. My sweet spot is combining **clean TypeScript architecture**, **thoughtful UX**, and **honest, transparent collaboration**.
+
+> **Looking for a reliable partner for your next digital product?** I'd love to hear from you. Whether it's a greenfield SaaS, a complex data-driven platform, or scaling up an existing team — let's talk.
+
+---
+
+## What I do
+
+- **Full-Stack Development** — TypeScript end-to-end, from database to UI
+- **Software Architecture** — modular, testable, and built to grow with your business
+- **Product & Project Management** — agile delivery, transparent communication, zero surprises
+- **Training & Mentoring** — developer workshops and knowledge transfer via [lenne.Learning](https://lenne.tech/lennelearning)
+- **Team Augmentation** — embedding into existing engineering teams to accelerate delivery
+
+---
+
+## Tech Stack
+
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Data & Infrastructure**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Testing & Quality**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+---
+
+## Open Source @ lenneTech
+
+I maintain and contribute to a growing set of open-source tools and starters that power our daily work and are freely available for the community:
+
+| Project | Description |
+| --- | --- |
+| **[nest-server](https://github.com/lenneTech/nest-server)** | Modern, fast Node.js framework built on NestJS — GraphQL + REST, MongoDB, auth & CRUD out of the box |
+| **[nuxt-extensions](https://github.com/lenneTech/nuxt-extensions)** | Nuxt 4 module with Better-Auth, Passkey/WebAuthn, 2FA, TUS uploads and typed SDK auto-generation |
+| **[cli](https://github.com/lenneTech/cli)** | CLI for scaffolding fullstack projects, servers and modules in seconds (`lt fullstack init`) |
+| **[nest-server-starter](https://github.com/lenneTech/nest-server-starter)** | Production-ready starter kit for nest-server — your backend in under a minute |
+| **[nuxt-base-starter](https://github.com/lenneTech/nuxt-base-starter)** | Opinionated Nuxt 4 starter with auth, SSR, Tailwind and typed API integration |
+| **[deploy.party](https://github.com/lenneTech/deploy.party)** | Simple, self-hostable deployment tool for your applications |
+| **[lennelearning](https://github.com/lenneTech/lennelearning)** | Online learning platform for web development |
+| **[cli-starter](https://github.com/lenneTech/cli-starter)** | Starter for building your own CLI with gluegun + helpers |
+
+Explore all projects → **[github.com/lenneTech](https://github.com/lenneTech)**
+
+---
+
+## Selected client work
+
+A small selection of recent projects I designed and delivered with the lenne.Tech team:
+
+- **RegioKonneX** — Regional networking platform for [Volksbank in Südwestfalen](https://www.voba-in-suedwestfalen.de) *(Nuxt, NestJS, MongoDB)*
+- **EVA** — Certification platform for ecosystem certificates for [Ecosystem Value Association](https://ecosystemvalueassociation.com) *(Angular, NestJS, PostgreSQL)*
+- **Drilling Machine Control** — Web-based control and data analysis for [TRACTO TECHNIK](https://www.tracto-technik.com) *(Angular)*
+- **3D Dashboard Charts** — High-performance frequency analysis for [ACHENBACH](https://www.achenbach.de) *(Angular, Highcharts)*
+- **Matrix Chat Platform** — Extension of an enterprise chat system for [d.velop AG](https://www.d-velop.com) *(Node.js, Matrix, Keycloak)*
+- **Easy Order** — Digital menu & ordering SaaS for gastronomy *(NestJS, MongoDB, GraphQL)*
+- **forgecloud** — Website builder SaaS for industrial companies *(NestJS, MongoDB)*
+
+More case studies → **[lenne.tech/kundenerfolge](https://lenne.tech/kundenerfolge)**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaihaase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kai's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaihaase&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+## Let's connect
+
+I'm always happy to talk — about ambitious product ideas, open-source collaboration, architectural challenges, or teaching opportunities.
+
+<p>
+  <b>Website:</b> <a href="https://lenne.tech">lenne.tech</a><br/>
+  <b>Email:</b> <a href="mailto:kai.haase@lenne.tech">kai.haase@lenne.tech</a><br/>
+  <b>Company:</b> <a href="https://github.com/lenneTech">lenne.Tech GmbH</a> · Lennestadt, Germany
+</p>
+
+<p align="center"><i>"Passion for code. Focus on people. Built to last."</i></p>
