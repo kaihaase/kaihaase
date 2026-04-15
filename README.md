@@ -37,38 +37,59 @@ I enjoy owning a project end-to-end: from the first whiteboard sketch and techni
 ## Tech Stack
 
 **Languages & Core**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/typescript/888888" width="40" height="40" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/javascript/888888" width="40" height="40" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nodedotjs/888888" width="40" height="40" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+  </tr>
+</table>
 
 **Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/vuedotjs/888888" width="40" height="40" alt="Vue.js" /><br /><sub><b>Vue.js</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nuxt/888888" width="40" height="40" alt="Nuxt" /><br /><sub><b>Nuxt</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/angular/888888" width="40" height="40" alt="Angular" /><br /><sub><b>Angular</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tailwindcss/888888" width="40" height="40" alt="Tailwind CSS" /><br /><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/sass/888888" width="40" height="40" alt="SASS" /><br /><sub><b>SASS</b></sub></td>
+  </tr>
+</table>
 
 **Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nestjs/888888" width="40" height="40" alt="NestJS" /><br /><sub><b>NestJS</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/express/888888" width="40" height="40" alt="Express" /><br /><sub><b>Express</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/graphql/888888" width="40" height="40" alt="GraphQL" /><br /><sub><b>GraphQL</b></sub></td>
+  </tr>
+</table>
 
 **Data & Infrastructure**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mongodb/888888" width="40" height="40" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/postgresql/888888" width="40" height="40" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mysql/888888" width="40" height="40" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/docker/888888" width="40" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/gitlab/888888" width="40" height="40" alt="GitLab" /><br /><sub><b>GitLab</b></sub></td>
+  </tr>
+</table>
 
 **Testing & Quality**
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="./assets/vitest.svg" width="40" height="40" alt="Vitest" /><br /><sub><b>Vitest</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/jest/888888" width="40" height="40" alt="Jest" /><br /><sub><b>Jest</b></sub></td>
+    <td align="center" width="110"><img src="./assets/playwright.svg" width="40" height="40" alt="Playwright" /><br /><sub><b>Playwright</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cypress/888888" width="40" height="40" alt="Cypress" /><br /><sub><b>Cypress</b></sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -76,16 +97,16 @@ I enjoy owning a project end-to-end: from the first whiteboard sketch and techni
 
 I maintain and contribute to a growing set of open-source tools and starters that power our daily work and are freely available for the community:
 
-| Project | Description |
-| --- | --- |
-| **[nest-server](https://github.com/lenneTech/nest-server)** | Modern, fast Node.js framework built on NestJS — GraphQL + REST, MongoDB, auth & CRUD out of the box |
-| **[nuxt-extensions](https://github.com/lenneTech/nuxt-extensions)** | Nuxt 4 module with Better-Auth, Passkey/WebAuthn, 2FA, TUS uploads and typed SDK auto-generation |
-| **[cli](https://github.com/lenneTech/cli)** | CLI for scaffolding fullstack projects, servers and modules in seconds (`lt fullstack init`) |
-| **[nest-server-starter](https://github.com/lenneTech/nest-server-starter)** | Production-ready starter kit for nest-server — your backend in under a minute |
-| **[nuxt-base-starter](https://github.com/lenneTech/nuxt-base-starter)** | Opinionated Nuxt 4 starter with auth, SSR, Tailwind and typed API integration |
-| **[deploy.party](https://github.com/lenneTech/deploy.party)** | Simple, self-hostable deployment tool for your applications |
-| **[lennelearning](https://github.com/lenneTech/lennelearning)** | Online learning platform for web development |
-| **[cli-starter](https://github.com/lenneTech/cli-starter)** | Starter for building your own CLI with gluegun + helpers |
+| Project | Description | Latest | Last Commit |
+| --- | --- | --- | --- |
+| **[nest-server](https://github.com/lenneTech/nest-server)** | Modern, fast Node.js framework built on NestJS — GraphQL + REST, MongoDB, auth & CRUD out of the box | ![npm](https://img.shields.io/npm/v/@lenne.tech/nest-server?style=flat-square&label=&color=444&labelColor=222) | ![commit](https://img.shields.io/github/last-commit/lenneTech/nest-server?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[nuxt-extensions](https://github.com/lenneTech/nuxt-extensions)** | Nuxt 4 module with Better-Auth, Passkey/WebAuthn, 2FA, TUS uploads and typed SDK auto-generation | ![npm](https://img.shields.io/npm/v/@lenne.tech/nuxt-extensions?style=flat-square&label=&color=444&labelColor=222) | ![commit](https://img.shields.io/github/last-commit/lenneTech/nuxt-extensions?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[cli](https://github.com/lenneTech/cli)** | CLI for scaffolding fullstack projects, servers and modules in seconds (`lt fullstack init`) | ![npm](https://img.shields.io/npm/v/@lenne.tech/cli?style=flat-square&label=&color=444&labelColor=222) | ![commit](https://img.shields.io/github/last-commit/lenneTech/cli?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[nest-server-starter](https://github.com/lenneTech/nest-server-starter)** | Production-ready starter kit for nest-server — your backend in under a minute | — | ![commit](https://img.shields.io/github/last-commit/lenneTech/nest-server-starter?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[nuxt-base-starter](https://github.com/lenneTech/nuxt-base-starter)** | Opinionated Nuxt 4 starter with auth, SSR, Tailwind and typed API integration | — | ![commit](https://img.shields.io/github/last-commit/lenneTech/nuxt-base-starter?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[gluegun-menu](https://github.com/lenneTech/gluegun-menu)** | Interactive menu helper for gluegun-based CLIs | ![npm](https://img.shields.io/npm/v/@lenne.tech/gluegun-menu?style=flat-square&label=&color=444&labelColor=222) | ![commit](https://img.shields.io/github/last-commit/lenneTech/gluegun-menu?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[deploy.party](https://github.com/lenneTech/deploy.party)** | Simple, self-hostable deployment tool for your applications | — | ![commit](https://img.shields.io/github/last-commit/lenneTech/deploy.party?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
+| **[cli-starter](https://github.com/lenneTech/cli-starter)** | Starter for building your own CLI with gluegun + helpers | — | ![commit](https://img.shields.io/github/last-commit/lenneTech/cli-starter?style=flat-square&label=&color=444&labelColor=222&display_timestamp=committer) |
 
 Explore all projects → **[github.com/lenneTech](https://github.com/lenneTech)**
 
@@ -104,15 +125,6 @@ A small selection of recent projects I designed and delivered with the lenne.Tec
 - **forgecloud** — Website builder SaaS for industrial companies *(NestJS, MongoDB)*
 
 More case studies → **[lenne.tech/kundenerfolge](https://lenne.tech/kundenerfolge)**
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaihaase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kai's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaihaase&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 ---
 
